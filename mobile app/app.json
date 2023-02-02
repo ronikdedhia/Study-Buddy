@@ -1,0 +1,17 @@
+{
+  "name": "Solve My Problem",
+  "displayName": "Solve My Problem",
+  "expo": {
+    "name": "Solve My Problem",
+    "slug": "Solve My Problem",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "splash": {
+    "image": "./assets/images/logo.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#000000"
+  }
+}
