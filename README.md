@@ -100,15 +100,6 @@ python app.py       # runs on http://localhost:5001
 | Student-Flask | `POST /predict` | Student metrics | Performance prediction |
 | Text-Emotion-NLP | `POST /predict` | Feedback text | Emotion / spam label |
 
-## Screenshots
-
-| Screenshot | Description |
-|------------|-------------|
-| _(screenshot placeholder)_ | Web dashboard — attendance and charts |
-| _(screenshot placeholder)_ | Mobile app — home screen |
-| _(screenshot placeholder)_ | Mobile app — recommendations screen |
-| _(screenshot placeholder)_ | Document upload page |
-
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
